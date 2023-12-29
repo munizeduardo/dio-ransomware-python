@@ -1,2 +1,2 @@
 # dio-ransomware-python
-Small ransomware example scripts.
+This project is a simple python ransomware script for a DIO lab project.
